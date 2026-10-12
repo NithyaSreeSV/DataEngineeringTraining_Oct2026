@@ -1,0 +1,7 @@
+supplier_id,supplier_name,country,risk_tier,contact_email
+1,Aster Components,India,Low,ops@aster.example
+2,BluePeak Supply,India,Medium,service@bluepeak.example
+3,Cedar Industrial,Malaysia,High,orders@cedar.example
+4,Delta Wholesale,India,Low,sales@delta.example
+5,Evergreen Imports,Singapore,Medium,team@evergreen.example
+6,Futura Logistics,India,High,ship@futura.example

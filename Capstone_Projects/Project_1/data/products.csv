@@ -1,0 +1,7 @@
+product_id,product_name,category,unit_cost,reorder_level
+1,USB Cable,Accessories,120.00,50
+2,Power Adapter,Power,450.00,30
+3,Sensor Module,Electronics,850.00,20
+4,Router,Networking,2400.00,15
+5,Battery Pack,Power,1100.00,25
+6,Control Board,Electronics,1800.00,12
