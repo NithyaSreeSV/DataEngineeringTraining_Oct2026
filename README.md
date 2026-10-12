@@ -70,8 +70,6 @@ Focus areas:
 * Star schema
 * Snowflake schema
 
-[Go to SQL →](./01-SQL/README.md)
-
 ---
 
 ## 02. MongoDB
@@ -90,8 +88,6 @@ Focus areas:
 * Embedding vs referencing
 * Indexing
 * Aggregation framework
-
-[Go to MongoDB →](./02-MongoDB/README.md)
 
 ---
 
@@ -112,8 +108,6 @@ Focus areas:
 * Data transformation
 * Data processing
 
-[Go to Python →](./03-Python/README.md)
-
 ---
 
 ## 04. Apache Spark & PySpark
@@ -132,8 +126,6 @@ Focus areas:
 * JSON and CSV processing
 * ETL
 * Incremental loading
-
-[Go to Spark & PySpark →](./04-Spark-PySpark/README.md)
 
 ---
 
@@ -154,8 +146,6 @@ Focus areas:
 * Unity Catalog
 * Databricks SQL
 * Azure Data Factory integration
-
-[Go to Azure Databricks →](./05-Azure-Databricks/README.md)
 
 ---
 
@@ -178,8 +168,6 @@ Focus areas:
 * Trigger rules
 * TaskGroups
 
-[Go to Airflow →](./06-Apache-Airflow/README.md)
-
 ---
 
 ## 07. Azure DevOps
@@ -198,8 +186,6 @@ Focus areas:
 * Environments
 * Release management
 
-[Go to Azure DevOps →](./07-Azure-DevOps/README.md)
-
 ---
 
 ## 08. CI/CD
@@ -214,8 +200,6 @@ Hands-on practice with:
 * Release pipelines
 * Automated testing
 * Deployment automation
-
-[Go to CI/CD →](./08-CI-CD/README.md)
 
 ---
 
