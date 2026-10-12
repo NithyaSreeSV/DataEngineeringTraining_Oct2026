@@ -1,0 +1,13 @@
+customer_id,customer_name,email,city,region,signup_date,customer_status
+101,Aarav Kumar,aarav.kumar@example.com,Chennai,South,2027-01-16,Active
+102,Meera Iyer,meera.iyer@example.com,Coimbatore,South,2027-01-27,Active
+103,Rohan Das,rohan.das@example.com,Hyderabad,South,2027-02-07,Active
+104,Ananya Rao,ananya.rao@example.com,Bengaluru,South,2027-02-18,Active
+105,Vikram Shah,vikram.shah@example.com,Mumbai,West,2027-03-01,Inactive
+106,Priya Nair,priya.nair@example.com,Kochi,South,2027-03-12,Active
+107,Kabir Singh,kabir.singh@example.com,Delhi,North,2027-03-23,Active
+108,Isha Patel,isha.patel@example.com,Ahmedabad,West,2027-04-03,Active
+109,Dev Menon,dev.menon@example.com,Pune,West,2027-04-14,Active
+110,Sara Khan,sara.khan@example.com,Jaipur,North,2027-04-25,Inactive
+111,Arjun Reddy,arjun.reddy@example.com,Vijayawada,South,2027-05-06,Active
+112,Diya Bose,diya.bose@example.com,Kolkata,East,2027-05-17,Active
