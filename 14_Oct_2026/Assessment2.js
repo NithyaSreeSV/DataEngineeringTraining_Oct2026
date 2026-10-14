@@ -6,8 +6,6 @@
 
 use food_delivery_assessment
 
-// --- Part 8: Customers collection ---
-
 // --- create restuarants and orders collection ---
 
 db.createCollection("restuarants");
