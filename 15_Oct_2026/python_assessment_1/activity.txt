@@ -1,0 +1,4 @@
+Order file loaded.
+Customer records checked.
+Order totals calculated.
+Activity log completed.

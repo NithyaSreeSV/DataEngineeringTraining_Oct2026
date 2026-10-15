@@ -1,0 +1,5 @@
+Registration file loaded.
+Event details validated.
+Booking amounts calculated.
+Staff data processed.
+Event report completed.
